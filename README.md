@@ -2,7 +2,7 @@
   <img src="https://github.com/TUSHAR-S-KALE/TUSHAR-S-KALE/blob/main/assets/banner.gif" width="100%" height="auto" alt="MasterHead" />
 </p>
 
-<h1 align="center"> <img src="https://github.com/TUSHAR-S-KALE/TUSHAR-S-KALE/blob/main/assets/wave.gif" height="22px" width="25px" /> Hi, I'm <span style="color:#00AEEF">Tushar S. Kale</span></h1>
+<h1 align="center"> <img src="https://github.com/user-attachments/assets/9516542d-86dd-4e79-8aa9-06b13c714bb0" height="22px" width="25px" /> Hi, I'm <span style="color:#00AEEF">Tushar S. Kale</span></h1>
 <h3 align="center">AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### <img src="https://github.com/TUSHAR-S-KALE/TUSHAR-S-KALE/blob/main/assets/lightbulb.gif" height="18px" width="18px" /> About Me
+### <img src="https://github.com/user-attachments/assets/14e52a7d-ac98-442a-8ee5-321e00c7e8b8" width="18" height="18"> About Me
 AI and Deep Learning enthusiast with strong programming skills in **Python, Java, C/C++, and C#**.  
 Experienced in machine learning, computer vision, and intelligent systems using:
 
@@ -33,14 +33,14 @@ Proficient in designing scalable models with optimized data pipelines and real-t
 
 ---
 
-### <img src="https://github.com/TUSHAR-S-KALE/TUSHAR-S-KALE/blob/main/assets/trophy.gif" height="18px" width="18px" /> Achievement
+### <img src="https://github.com/user-attachments/assets/df09bbe1-5f52-4bd9-8c15-679b519a45a5" height="18px" width="18px" /> Achievement
 Presented research paper at **ADCIS 2025**:  
 **“Intelligent System for Traffic Light Timing Optimization using ML, DL & Computer Vision”**  
-<img src="https://github.com/TUSHAR-S-KALE/TUSHAR-S-KALE/blob/main/assets/medal.gif" height="10px" width="10px" /> Awarded *Best Paper Presentation* in **Intelligent Systems** category
+<img src="https://github.com/user-attachments/assets/c5e8971e-1049-410f-8a28-8d1dcbc614f4" height="10px" width="10px" /> Awarded *Best Paper Presentation* in **Intelligent Systems** category
 
 ---
 
-## <img src="https://github.com/TUSHAR-S-KALE/TUSHAR-S-KALE/blob/main/assets/robot.gif" height="18px" width="18px" /> Tech Stack & Tools
+## <img src="https://github.com/user-attachments/assets/d4f7b618-767f-43ad-b453-a1795635a107" height="18px" width="18px" /> Tech Stack & Tools
 
 | Category | Skills |
 |----------|--------|
@@ -56,6 +56,6 @@ Presented research paper at **ADCIS 2025**:
 
 ---
 
-### <img src="https://github.com/TUSHAR-S-KALE/TUSHAR-S-KALE/blob/main/assets/sparkles.gif" height="18px" width="18px" /> Fun Fact
+### <img src="https://github.com/user-attachments/assets/47545545-74f6-466e-8c96-d074cc64cf6f" height="18px" width="18px" /> Fun Fact
 > I believe in transforming real-time challenges into intelligent AI-powered solutions!
 
