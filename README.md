@@ -85,7 +85,7 @@ I am a **GenAI & Machine Learning Engineer** focused on building **production-re
 📄 Presented at **ADCIS 2025**  
 🏆 **Best Paper Award – Intelligent Systems Category**  
 
-**“Traffic Light Timing Optimization using ML, DL & Computer Vision”**
+**“Intelligent System for Traffic Light Timing Optimization using Machine Learning, Deep Learning and Computer Vision”**
 
 ---
 
